@@ -1,12 +1,74 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Le Tien Thien\\source\\repos\\DoAn1_QuanLyCuaHangQuanAoTheThao\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886678F6-33A2-4C83-92D9-A144FBB7C50E}|DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao.csproj|c:\\users\\le tien thien\\source\\repos\\doan1_quanlycuahangquanaothethao\\doan1_quanlycuahangquanaothethao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886678F6-33A2-4C83-92D9-A144FBB7C50E}|DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao.csproj|solutionrelative:doan1_quanlycuahangquanaothethao\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886678F6-33A2-4C83-92D9-A144FBB7C50E}|DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao.csproj|c:\\users\\le tien thien\\source\\repos\\doan1_quanlycuahangquanaothethao\\doan1_quanlycuahangquanaothethao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886678F6-33A2-4C83-92D9-A144FBB7C50E}|DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao.csproj|solutionrelative:doan1_quanlycuahangquanaothethao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886678F6-33A2-4C83-92D9-A144FBB7C50E}|DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao.csproj|c:\\users\\le tien thien\\source\\repos\\doan1_quanlycuahangquanaothethao\\doan1_quanlycuahangquanaothethao\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{886678F6-33A2-4C83-92D9-A144FBB7C50E}|DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao.csproj|solutionrelative:doan1_quanlycuahangquanaothethao\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Le Tien Thien\\source\\repos\\DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DoAn1_QuanLyCuaHangQuanAoTheThao\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Le Tien Thien\\source\\repos\\DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DoAn1_QuanLyCuaHangQuanAoTheThao\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCYAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:37:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Le Tien Thien\\source\\repos\\DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao\\Program.cs",
+              "RelativeDocumentMoniker": "DoAn1_QuanLyCuaHangQuanAoTheThao\\Program.cs",
+              "ToolTip": "C:\\Users\\Le Tien Thien\\source\\repos\\DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao\\Program.cs",
+              "RelativeToolTip": "DoAn1_QuanLyCuaHangQuanAoTheThao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:37:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Le Tien Thien\\source\\repos\\DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "DoAn1_QuanLyCuaHangQuanAoTheThao\\Forms\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Le Tien Thien\\source\\repos\\DoAn1_QuanLyCuaHangQuanAoTheThao\\DoAn1_QuanLyCuaHangQuanAoTheThao\\Forms\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "DoAn1_QuanLyCuaHangQuanAoTheThao\\Forms\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:09:58.815Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
