@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build output
+bin/
+obj/
+
+# Publish
+publish/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
